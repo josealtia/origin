@@ -2,4 +2,4 @@
 
 hola
 
-adios
+Added gitignore
